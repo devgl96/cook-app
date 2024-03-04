@@ -6,7 +6,7 @@
 
 🔴 **Assista meus vídeos no YouTube:** [@orodrigogo](https://www.youtube.com/@orodrigogo)
 
-🔴 **Figma do projeto:** [Cook App](https://www.figma.com/file/dstMuQZDrbJe12VLGaRgeN/Cook-App?type=design&node-id=2002%3A694&mode=design&t=PlFPVvCZkKRc7khB-1)
+🔴 **Figma do projeto:** [Cook App](https://www.figma.com/community/file/1346604268107725445/cook-app)
 
 ---
 
